@@ -6,7 +6,7 @@ I´m Piyush,Backend Developer  in India Noida
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![GitLab](https://www.freepik.com/icon/js_5968292#fromView=search&page=1&position=1&uuid=8f6926a9-b862-4a6a-87dc-c850a88e866d)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
